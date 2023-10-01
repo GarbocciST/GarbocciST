@@ -3,7 +3,7 @@
 <h3 align="center">A full stack developer from Argentina</h3>
 
 
-- 🌱 I am still actively learning **Java**
+- 🌱 I am still actively learning **Angular**
 
 - 👨‍💻 Projects are available on [https://github.com/GarbocciST?tab=repositories](https://github.com/GarbocciST?tab=repositories)
 
