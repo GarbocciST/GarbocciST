@@ -1,24 +1,22 @@
 
-<h1 align="center">Hi 👋, I'm Stefano Garbocci</h1>
-<h3 align="center">A full stack developer from Argentina</h3>
+<h1 align="center">Hola 👋, soy Stefano</h1>
+<h3 align="center">Full stack developer de Argentina</h3>
 
+Con más de 6 meses de experiencia como Front-end Developer Freelance
+especializado en MongoDB, React, Node.js Express, con conocimientos en desarrollo web,
+API REST, gestión de datos y trabajo en equipo.
+Mi labor se centró en digitalizar la experiencia de contratar y conectar un catálogo de profesionales para solucionar problemas domésticos, desarrollar APIs REST para
+la carga de datos y formularios, gestionar documentos, enviar correos electrónicos y automatizar la generación de ofertas y débitos automáticos. Durante este tiempo, he desarrollado habilidades clave, como resolución de problemas, comunicación efectiva y trabajo colaborativo. Mi nivel de Inglés es básico.
 
-- 🌱 I am still actively learning **Angular**
+<h3 align="left">Conectá conmigo:</h3>
 
-- 👨‍💻 Projects are available on [https://github.com/GarbocciST?tab=repositories](https://github.com/GarbocciST?tab=repositories)
+- 📫 Me puedes escribir a →  stefgarbocci@gmail.com
+- También te dejo mi perfil de https://www.linkedin.com/in/stefano-garbocci/
 
-- 📫 Feel free to reach me at **stefgarbocci@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/stefano-garbocci/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/stefano-garbocci/" height="30" width="40" /></a>
-<a href="stefgarbocci@gmail.com" target="blank"><img align="center" src="https://www.svgrepo.com/show/349379/gmail-old.svg" alt="stefgarbocci@gmail.com" height="30" width="40" /></a>
-
-</p>
 
 <hr>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Lenguajes y herramientas:</h3>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a><a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
@@ -27,11 +25,8 @@
 <p align="left"> 
 </p>
 
-### Badges
 
 <b>My GitHub Stats</b>
-
-<a href="http://www.github.com/GarbocciST"><img src="https://github-readme-streak-stats.herokuapp.com/?user=GarbocciST&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/GarbocciST" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GarbocciST&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
