@@ -11,7 +11,8 @@ la carga de datos y formularios, gestionar documentos, enviar correos electróni
 <h3 align="left">Conectá conmigo:</h3>
 
 - 📫 Me puedes escribir a →  stefgarbocci@gmail.com
-- También te dejo mi perfil de https://www.linkedin.com/in/stefano-garbocci/
+- También te dejo mi perfil de Linkedin https://www.linkedin.com/in/stefano-garbocci/
+- Mi Curriculum vitae [aquí](https://drive.google.com/file/d/1djetY0aLfn89mdJRa4UaXmPFAyqQJkyB/view?usp=sharing)
 
 
 <hr>
