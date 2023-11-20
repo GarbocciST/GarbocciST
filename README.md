@@ -8,6 +8,8 @@ API REST, gestión de datos y trabajo en equipo.
 Mi labor se centró en digitalizar la experiencia de contratar y conectar un catálogo de profesionales para solucionar problemas domésticos, desarrollar APIs REST para
 la carga de datos y formularios, gestionar documentos, enviar correos electrónicos y automatizar la generación de ofertas y débitos automáticos. Durante este tiempo, he desarrollado habilidades clave, como resolución de problemas, comunicación efectiva y trabajo colaborativo. Mi nivel de Inglés es básico.
 
+<h5>Actualmente me encuentro estudiando Java con Springboot</h5>
+
 <h3 align="left">Conectá conmigo:</h3>
 
 - 📫 Me puedes escribir a →  stefgarbocci@gmail.com
