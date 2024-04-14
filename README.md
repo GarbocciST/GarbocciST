@@ -2,13 +2,13 @@
 <h1 align="center">Hola 👋, soy Stefano</h1>
 <h3 align="center">Full stack developer de Argentina</h3>
 
-Con más de 6 meses de experiencia como Front-end Developer Freelance
-especializado en MongoDB, React, Node.js Express, con conocimientos en desarrollo web,
+Con más de 6 meses de experiencia como Front-end Developer Freelance y con 6 meses de experiencia como Full-Stack Developer
+Trabajando con el stack .NET Core, React.js, SQLServer con conocimientos en desarrollo web en Node.js, Express, Nest.js, MongoDB, PostgreSQL asi tambien en
 API REST, gestión de datos y trabajo en equipo.
 Mi labor se centró en digitalizar la experiencia de contratar y conectar un catálogo de profesionales para solucionar problemas domésticos, desarrollar APIs REST para
 la carga de datos y formularios, gestionar documentos, enviar correos electrónicos y automatizar la generación de ofertas y débitos automáticos. Durante este tiempo, he desarrollado habilidades clave, como resolución de problemas, comunicación efectiva y trabajo colaborativo. Mi nivel de Inglés es básico.
 
-<h4> 🔭 Actualmente me encuentro estudiando Java con Springboot</h4>
+<h4> 🔭 Actualmente me encuentro estudiando Angular</h4>
 
 <h3 align="left">Conectá conmigo:</h3>
 
